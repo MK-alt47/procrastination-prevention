@@ -1,7 +1,7 @@
 color_scheme:
   colors:
-  - {color: '#176b87', name: Primary}
-  - {color: '#f7f8fa', name: Background}
+  - {color: '#f0f0f0', name: Primary}
+  - {color: '#7070700a', name: Background}
   - {color: '#ffffff', name: Surface}
   - {color: '#1d2430', name: Text}
   - {color: '#667085', name: Muted}
