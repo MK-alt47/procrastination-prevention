@@ -3,7 +3,7 @@ color_scheme:
   - {color: '#f0f0f0', name: Primary}
   - {color: '#7070700a', name: Background}
   - {color: '#ffffff', name: Surface}
-  - {color: '#1d2430', name: Text}
+  - {color: '#e6e6e614', name: Text}
   - {color: '#667085', name: Muted}
   - {color: '#d8dee8', name: Border}
   - {color: '#0e4254', name: Primary Dark}
